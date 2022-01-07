@@ -46,6 +46,9 @@ nav {
 }
 .navbar-shopping-cart {
   position: relative;
+  &:hover {
+    cursor: pointer;
+  }
 }
 .navbar-shopping-cart div {
   width: 16px;
